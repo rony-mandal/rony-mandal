@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on **ML projects**
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 Learning **Gen AI**
 
 - 📫 How to reach me **hustle.rony@gmail.com**
 
